@@ -1,0 +1,19 @@
+{
+  "name": "grpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUC-DISCIPLINAS/kv-grpc-lucas-a-gusmao-samuel-a-c-baker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PUC-DISCIPLINAS/kv-grpc-lucas-a-gusmao-samuel-a-c-baker/issues"
+  },
+  "homepage": "https://github.com/PUC-DISCIPLINAS/kv-grpc-lucas-a-gusmao-samuel-a-c-baker#readme"
+}
