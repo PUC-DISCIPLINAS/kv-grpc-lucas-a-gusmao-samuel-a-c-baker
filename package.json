@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "node src/server.js",
+    "client": "node src/client.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PUC-DISCIPLINAS/kv-grpc-lucas-a-gusmao-samuel-a-c-baker/issues"
   },
-  "homepage": "https://github.com/PUC-DISCIPLINAS/kv-grpc-lucas-a-gusmao-samuel-a-c-baker#readme"
+  "homepage": "https://github.com/PUC-DISCIPLINAS/kv-grpc-lucas-a-gusmao-samuel-a-c-baker#readme",
+  "dependencies": {
+    "grpc": "^1.24.6"
+  }
 }
